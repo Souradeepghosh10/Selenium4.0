@@ -101,6 +101,7 @@ public class BrowserActions {
 		*/
 		
 		// javascript
+		//test
 		driver.get("https://google.com");
 		JavascriptExecutor js = (JavascriptExecutor)driver;
 		WebElement button = driver.findElement(By.name("btnI"));
